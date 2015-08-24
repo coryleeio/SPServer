@@ -4,6 +4,7 @@
 /SPShared/
 *.obj
 /SPServer/SPServer/obj/**
+.vs/
 
 
 #OS junk files
