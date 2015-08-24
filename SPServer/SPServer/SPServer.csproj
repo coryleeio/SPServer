@@ -89,10 +89,9 @@
       <LastGenOutput>GameServerSettings.Designer.cs</LastGenOutput>
     </None>
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="..\..\SPShared\SPShared.csproj">
-      <Project>{643431c5-e708-4e5c-aa2c-7c3b2e952c6b}</Project>
+    <ProjectReference Include="..\..\SPShared\SPShared\SPShared.csproj">
+      <Project>{0b50a4fe-ec0f-49ed-9b92-d291f334299c}</Project>
       <Name>SPShared</Name>
     </ProjectReference>
   </ItemGroup>

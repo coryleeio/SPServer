@@ -5,6 +5,7 @@ using Photon.LoadBalancing.GameServer;
 using Photon.LoadBalancing.Operations;
 using Photon.SocketServer;
 using SPServer.Operations;
+using SPShared.Operations;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -31,7 +32,7 @@ namespace SPServer
 
                 switch ((byte)operationRequest.OperationCode)
                 {
-                    case (byte)SPServer.Operations.SPOperationCode.Leave:
+                    case (byte)SPOperationCode.Leave:
                         HandleLeaveOperation(peer, operationRequest, sendParameters);
                         break;
 
