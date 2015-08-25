@@ -22,6 +22,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Debugger", "Debugger\Debugg
 		{0B50A4FE-EC0F-49ED-9B92-D291F334299C} = {0B50A4FE-EC0F-49ED-9B92-D291F334299C}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artemis_Mono", "..\SPShared\SPShared\artemis_CSharp\Artemis_Mono\Artemis_Mono.csproj", "{93A803F6-64E4-4FCE-98CC-9E6101BDAC69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -68,6 +70,14 @@ Global
 		{0521BF9C-A5A1-4AEA-9FB5-AADEF38343E2}.Release|Any CPU.ActiveCfg = Release|Win32
 		{0521BF9C-A5A1-4AEA-9FB5-AADEF38343E2}.Release|x86.ActiveCfg = Release|Win32
 		{0521BF9C-A5A1-4AEA-9FB5-AADEF38343E2}.Release|x86.Build.0 = Release|Win32
+		{93A803F6-64E4-4FCE-98CC-9E6101BDAC69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A803F6-64E4-4FCE-98CC-9E6101BDAC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A803F6-64E4-4FCE-98CC-9E6101BDAC69}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{93A803F6-64E4-4FCE-98CC-9E6101BDAC69}.Debug|x86.Build.0 = Debug|Any CPU
+		{93A803F6-64E4-4FCE-98CC-9E6101BDAC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A803F6-64E4-4FCE-98CC-9E6101BDAC69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93A803F6-64E4-4FCE-98CC-9E6101BDAC69}.Release|x86.ActiveCfg = Release|Any CPU
+		{93A803F6-64E4-4FCE-98CC-9E6101BDAC69}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

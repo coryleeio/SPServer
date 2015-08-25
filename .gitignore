@@ -6,3 +6,4 @@
 /SPServer/SPServer/obj/**
 .vs/
 /SPServer/Debugger/Debug
+/SPServer/packages
