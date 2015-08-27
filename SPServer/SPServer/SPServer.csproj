@@ -93,7 +93,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\SPShared\SPShared\SPShared.csproj">
+    <ProjectReference Include="..\..\..\..\Shared\SPShared\SPShared\SPShared.csproj">
       <Project>{0b50a4fe-ec0f-49ed-9b92-d291f334299c}</Project>
       <Name>SPShared</Name>
     </ProjectReference>
